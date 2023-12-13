@@ -33,7 +33,7 @@
  <cloudHubDeployment>
  <uri>https://anypoint.mulesoft.com</uri>
  <muleVersion>4.4.0</muleVersion>
- <username>inheritcloud</username>
+ <username>janasena1</username>
  <password>Siva@193654</password>
  <applicationName>jenkins1</applicationName>
  <environment>Sandbox</environment>
